@@ -1,6 +1,6 @@
 # How to start:
-### Press Green Flag to start.
-### You will have 15 lives and 0 points at first.
+## Press Green Flag to start.
+## You will have 15 lives and 0 points at first.
 # What's the target:
 ## Don't let the ball touch the crab.
 # When the game ends:
