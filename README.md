@@ -1,0 +1,37 @@
+If you're on a mobile device, you may go to the mobile ver. (BETA)
+How to start:
+Press Green Flag to start.
+You will have 15 lives and 0 points at first.
+What's the target:
+Don't let the ball touch the crab.
+When the game ends:
+When lives = 0.
+How to move the crab:
+Press right or left arrow on keyboard to move.
+Press "Z" to turbo your speed.
+How to score:
+If the ball hit the ground, score increase by 1.
+When you reach higher score, it becomes harder.
+What is heart for:
+Heart can increase lives by 1 (or with mushroom, 2).
+What is star for:
+When you touch a ball, score increace by 1.
+Lasts for 15 second (or with mushroom, 30 second).
+It has a timer on top.
+What is mushroom for:
+Double Star and heart time and lives.
+What is the "high score" for:
+If you're a scratcher, it will save the highest score.
+You may write your name if you have the highest score.
+What is Variables on top for:
+Lives No. => Mushroom time => High score => Star time => Score
+
+
+
+
+
+
+
+PS:
+I wonder what will happen if you (↑↑↓↓←→←→BA)?
+Nothing?
