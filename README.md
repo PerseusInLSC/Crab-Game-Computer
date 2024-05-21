@@ -20,7 +20,7 @@
 # What is mushroom for:
 ## Double Star and heart time and lives.
 # What is the "high score" for:
-## It will save the highest score.
+## It will save the highest score played on your computer.
 # What is Variables on top for:
 ## Lives No. => Mushroom time => High score => Star time => Score
 
