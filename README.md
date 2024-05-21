@@ -31,5 +31,5 @@
 
 
 PS:
-I wonder what will happen if you (↑↑↓↓←→←→BA)?
+I wonder what will happen if you (↑↑↓↓←→←→BA) or type Turbo before the game starts?
 Nothing?
