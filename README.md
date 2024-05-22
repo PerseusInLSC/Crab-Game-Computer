@@ -14,7 +14,8 @@
 # What is heart for:
 ## Heart can increase lives by 1 (or with mushroom, 2).
 # What is star for:
-## When you touch a ball, score increace by 1.
+## When you touch a ball, lives decrease by 0.25.
+## When you touch a ball, score increace by 1. (Old)
 ## Lasts for 15 second (or with mushroom, 30 second).
 ## It has a timer on top.
 # What is mushroom for:
